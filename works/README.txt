@@ -91,16 +91,3 @@ Instructions:
 		- Additional tweakable settings can be found at the top of assets/js/main.js, but
 		  be aware most of these need to sync with certain Sass variables (see comments
 		  for details).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
