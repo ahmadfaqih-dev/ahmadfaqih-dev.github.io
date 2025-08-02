@@ -1,21 +1,3 @@
-/* --------------------------------- */
-/* Css Styles                        */
-/*---------------------------------- */
-
-/**
-	Hagen - Vcard Template 
-	Author : Tavonline
-	Copyright 2022
-
-/* Table of Content
-==================================================
-	
-	1. Body and Core Css
-	2. Home Section
-
-
-/*------------------------ 1 Body and Core Css ------------------------*/
-
 @import url(assets.css);
 @import url(color.css);
 @import url(normalize.css);
